@@ -1,0 +1,30 @@
+.navbar ul li{
+    display: block;
+    margin: 20px 0;
+    line-height: 10px;
+
+}
+#home{
+    height: 500px;
+}
+.headings{
+    font-size: 1.5rem;
+    padding: 2px;
+}
+footer{
+    flex-direction: column;
+    padding: 5px 0px;
+}
+.flex-align-right{
+    margin-left: 0;
+}
+.smhandle a {
+    display: flex;
+    width: 80%;
+    justify-content: center;
+}
+.gallery img{
+    width: 250px;
+    height: 150px;
+    margin: 10px;
+}
